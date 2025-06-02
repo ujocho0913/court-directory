@@ -193,15 +193,16 @@ with st.sidebar:
         icon=":material/logout:"
     )
 
-    # st.write(
-    #     """
-    #         Color Legend:
-    #         :red-badge[**Executive Staff**]
-    #         :orange-badge[**Chief Trial Attorneys**]
-    #         :green-badge[**Trial Team Leaders**]
-    #         :blue-badge[**Assistant Prosecuting Attorneys**]
-    #     """
-    # )
+    st.divider()
+    st.write(
+        """
+            Color Legend:
+            :red-badge[**Executive Staff**]
+            :orange-badge[**Chief Trial Attorneys**]
+            :green-badge[**Trial Team Leaders**]
+            :blue-badge[**Assistant Prosecuting Attorneys**]
+        """
+    )
 
 
 # --- Internal Directory HELPER funcs --- 
