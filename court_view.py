@@ -195,10 +195,10 @@ with st.sidebar:
 
     st.divider()
     st.write("Color Legend:") 
-    st.write("   :red-badge[**Executive Staff**]") 
-    st.write("   :orange-badge[**Chief Trial Attorneys**]") 
-    st.write("   :green-badge[**Trial Team Leaders**]") 
-    st.write("   :blue-badge[**Assistant Prosecuting Attorneys**]") 
+    st.write(":red-badge[**Executive Staff**]") 
+    st.write(":orange-badge[**Chief Trial Attorneys**]") 
+    st.write(":green-badge[**Trial Team Leaders**]") 
+    st.write(":blue-badge[**Assistant Prosecuting Attorneys**]") 
 
 
 # --- Internal Directory HELPER funcs --- 
