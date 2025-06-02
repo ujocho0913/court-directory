@@ -214,7 +214,7 @@ def configure_badge(row):
         unit = 'N/A'
     
     # Drug Court 
-    if 'Drug Court' in unit:
+    if 'Drug' in unit:
         unit = unit.replace("Drug", "Drug Court")
     
     # 'Position' - 'Exec' / 'CTA' / 'TTL' / 'APA'
