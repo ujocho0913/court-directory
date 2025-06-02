@@ -197,10 +197,10 @@ with st.sidebar:
     st.write(
         """
             Color Legend:\
-            :red-badge[**Executive Staff**]\
-            :orange-badge[**Chief Trial Attorneys**]\
-            :green-badge[**Trial Team Leaders**]\
-            :blue-badge[**Assistant Prosecuting Attorneys**]
+            - :red-badge[**Executive Staff**]\
+            - :orange-badge[**Chief Trial Attorneys**]\
+            - :green-badge[**Trial Team Leaders**]\
+            - :blue-badge[**Assistant Prosecuting Attorneys**]
         """
     )
 
