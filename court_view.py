@@ -196,10 +196,10 @@ with st.sidebar:
     st.divider()
     st.write(
         """
-            Color Legend:
-            :red-badge[**Executive Staff**]
-            :orange-badge[**Chief Trial Attorneys**]
-            :green-badge[**Trial Team Leaders**]
+            Color Legend:\
+            :red-badge[**Executive Staff**]\
+            :orange-badge[**Chief Trial Attorneys**]\
+            :green-badge[**Trial Team Leaders**]\
             :blue-badge[**Assistant Prosecuting Attorneys**]
         """
     )
