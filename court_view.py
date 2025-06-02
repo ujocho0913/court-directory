@@ -183,6 +183,7 @@ with st.sidebar:
         icon="🔄",
     )
 
+    st.write("To securely exit directory, logout or exit page:")
     # Logout 
     logout = st.button(
         label="Logout",
